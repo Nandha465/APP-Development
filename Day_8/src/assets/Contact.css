@@ -1,0 +1,13 @@
+.conatiner{
+    text-align: center;
+    padding-top: 2%;
+}
+.para1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-size:3rem;
+    /* margin-top: 10%; */
+}
+.cp{
+    text-align: center;
+}
